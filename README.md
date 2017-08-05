@@ -1,2 +1,2 @@
 # hello-world
-new to this world of linux
+I am new to this world of linux
